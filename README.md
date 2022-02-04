@@ -22,8 +22,9 @@ Quick go at the QR code component challenge, non-responsive as per the cahllenge
 
 ### Screenshot
 
-<img src="./screenshot_mobile.png" width="138" height="" alt="Screenshot of solution">
-<img src="./screenshot_desktop.png" width="" height="300" alt="Screenshot of solution">
+|Mobile|Desktop|
+|------|-------|
+|<img src="./screenshot_mobile.png" width="80" height="" alt="Screenshot of solution">|<img src="./screenshot_desktop.png" width="300" height="" alt="Screenshot of solution">|
 
 
 ### Links
