@@ -10,15 +10,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
-Quick go at the QR code component challenge, non-responsive as per the cahllenge rules.
+Quick go at the non-responsive QR code component challenge, just for fun.
 
 ### Screenshot
 
@@ -29,7 +25,6 @@ Quick go at the QR code component challenge, non-responsive as per the cahllenge
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://rauf-dev.github.io/fm_qr-code-component/](https://rauf-dev.github.io/fm_qr-code-component/)
 
 ## My process
