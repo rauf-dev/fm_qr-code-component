@@ -22,15 +22,15 @@ Quick go at the QR code component challenge, non-responsive as per the cahllenge
 
 ### Screenshot
 
-|Mobile|Desktop|
-|------|-------|
-|<img src="./screenshot_mobile.png" width="80" height="" alt="Screenshot of solution">|<img src="./screenshot_desktop.png" width="300" height="" alt="Screenshot of solution">|
+| Mobile                                                                                | Desktop                                                                                 |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <img src="./screenshot_mobile.png" width="80" height="" alt="Screenshot of solution"> | <img src="./screenshot_desktop.png" width="300" height="" alt="Screenshot of solution"> |
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rauf-dev.github.io/fm_qr-code-component/](https://rauf-dev.github.io/fm_qr-code-component/)
 
 ## My process
 Gave the card a fixed width and height. All else inside the card is layed out using flex and padding.
